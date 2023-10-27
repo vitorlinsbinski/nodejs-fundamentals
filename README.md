@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/node-logo.svg />
+  <img src="./assets/node-logo.svg"/>
 </div>
 
 <h1 align = "center">NodeJS Fundamentals</h1>
