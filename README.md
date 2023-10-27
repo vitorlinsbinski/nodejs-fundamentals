@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="./assets//nodejs-ar21.svg />
+  <img src="./assets/nodejs-ar21.svg />
 </div>
 
 <h1 align = "center">NodeJS Fundamentals</h1>
+
 <p>This project provided me with a comprehensive understanding of Node.js, its functionality, and its diverse applications. Node.js, a robust library, empowers us to execute JavaScript on the server side, leveraging the V8 Engine to construct essential back-end functionalities, including the development of APIs. Furthermore, this learning journey delved into critical aspects such as HTTP methods, status codes, stream handling, pipe operations, file manipulation, local database interaction, and the creation of application routes.
 
 </p>
@@ -64,8 +65,6 @@ This is study project to get introduced about NodeJS fundamentals. There's some 
 
 - [NodeJS](https://nodejs.org/)
 
-```
-
 ## License
 
 This project is licensed under [MIT](https://choosealicense.com/licenses/mit/) License.
@@ -80,4 +79,7 @@ This project is licensed under [MIT](https://choosealicense.com/licenses/mit/) L
 Developed by Vitor Linsbinski
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorlinsbinski/)](https://www.linkedin.com/in/vitorlinsbinski/)
+
+```
+
 ```
