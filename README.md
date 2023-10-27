@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="./assets/nodejs-ar21.svg />
+  <img src="./assets/node-logo.svg />
 </div>
 
 <h1 align = "center">NodeJS Fundamentals</h1>
 
-<p>This project provided me with a comprehensive understanding of Node.js, its functionality, and its diverse applications. Node.js, a robust library, empowers us to execute JavaScript on the server side, leveraging the V8 Engine to construct essential back-end functionalities, including the development of APIs. Furthermore, this learning journey delved into critical aspects such as HTTP methods, status codes, stream handling, pipe operations, file manipulation, local database interaction, and the creation of application routes.
-
-</p>
+<p>This project provided me with a comprehensive understanding of Node.js, its functionality, and its diverse applications. Node.js, a robust library, empowers us to execute JavaScript on the server side, leveraging the V8 Engine to construct essential back-end functionalities, including the development of APIs. Furthermore, this learning journey delved into critical aspects such as HTTP methods, status codes, stream handling, pipe operations, file manipulation, local database interaction, and the creation of application routes.</p>
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -15,7 +13,7 @@
 </div>
 
 <h4 align="center"> 
-	NodeJS Fundamentals | Status: Done ✔️
+	NodeJS Fundamentals | Status: Doing 
 </h4>
 
 ## Table of Contents
