@@ -41,7 +41,7 @@ Through body request, you can add a new user with name and email. Unique user's 
 
 You can edit name or email of a user by sending through body request what you want to modify. For example: PUT http://localhost:3333/users/b4b3ce4a-e0e3-4b51-b33a-97060e437a4b, and add a body request on Insomnia.
 
-## DELETE(/users/:id)
+### DELETE(/users/:id)
 
 If you want to delete a user, pass his/her ID through the route param, like: DELETE http://localhost:3333/users/b4b3ce4a-e0e3-4b51-b33a-97060e437a4b
 
