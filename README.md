@@ -89,7 +89,3 @@ This project is licensed under [MIT](https://choosealicense.com/licenses/mit/) L
 Developed by Vitor Linsbinski
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorlinsbinski/)](https://www.linkedin.com/in/vitorlinsbinski/)
-
-```
-
-```
