@@ -13,7 +13,7 @@
 </div>
 
 <h4 align="center"> 
-	NodeJS Fundamentals | Status: Doing 
+	NodeJS Fundamentals | Status: Done  
 </h4>
 
 ## Table of Contents
@@ -31,7 +31,19 @@ This is study project to get introduced about NodeJS fundamentals. There's some 
 
 ### GET (/users)
 
+This route returns the list of users on the local database. You can also filter users by adding "search" query param in the URL, like: GET request for http://localhost:3333/users?search=John
+
 ### POST (/users)
+
+Through body request, you can add a new user with name and email. Unique user's ID will be created natively by NodeJS.
+
+### PUT(/users/:id)
+
+You can edit name or email of a user by sending through body request what you want to modify. For example: PUT http://localhost:3333/users/b4b3ce4a-e0e3-4b51-b33a-97060e437a4b, and add a body request on Insomnia.
+
+## DELETE(/users/:id)
+
+If you want to delete a user, pass his/her ID through the route param, like: DELETE http://localhost:3333/users/b4b3ce4a-e0e3-4b51-b33a-97060e437a4b
 
 ## Requirements to run the project
 
