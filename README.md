@@ -51,8 +51,6 @@ If you want to delete a user, pass his/her ID through the route param, like: DEL
 
 ## Running the application
 
-<p>Before you run the application, read the docs of Stripe Library and create an account to proceed with this project.</p>
-
 ```bash
     # Clone this repository on your machine:
     $ git clone https://github.com/vitorlinsbinski/nodejs-fundamentals.git
